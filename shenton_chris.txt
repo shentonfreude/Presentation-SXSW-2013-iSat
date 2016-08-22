@@ -1,0 +1,36 @@
+Bio (twitter-style):
+
+Chris Shenton: @Shentonfreude 3 years DotCom, 25 supporting NASA: AI, robotics, networks, security, large systems, CMS, Python & JavaScript
+
+Abstract (twitter-style):
+
+iSat: for NASA SMD: Satellite orbit calculations and interactive real-time 3D visualization, runs entirely in the browser with JavaScript
+
+
+
+Bio (long):
+
+Chris Shenton (@shentonfreude) started working at NASA GSFC doing
+robotics and AI, moved into the Center networking group, and later
+transferred to NASA HQ where he continued doing large systems and
+network security; he was given a few years off for good behavior and
+worked in DotCom until it went bust. He's been working on applications
+the past few years, mostly in Python but recently in JavaScript.
+Chris is an open source and UNIX bigot, helps lead the DCpython meetup
+community, and runs Koansys, LLC.
+
+Abstract (long):
+
+iSat is an interactive real-time visualization tool for viewing
+satellites, their locations relative to the Earth, and their orbits.
+To be widely accessible, it was written in JavaScript and all the
+calculations and graphics run entirely in the browser. The application
+is fun to work with, and initial responses from users has been very
+encouraging. It was developed for the NASA Science Mission Directorate
+and succeeds the JTrack-3D applet which has been very popular with the
+Education community. It's making its public debut here at SXSW and you
+can find it under http://science.nasa.gov/
+
+
+
+

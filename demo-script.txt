@@ -1,0 +1,51 @@
+=============
+ Demo Script
+=============
+
+Need a few 1-minute or so segments demonstrating a feature.
+
+Intro: zoom, rotate, see motion
+===============================
+
+* Reset: show's geolocation
+* Info: basic usage
+* Zoom out: show outlier satellites
+* Rotate: show 3D with stars (looks great on full-screen)
+* Zoom in and rotate to find satellite over land
+* Show realtime motion
+
+Satellite Info
+==============
+
+* Hover over: show name
+* Hover Click: centers, brings up details, shows orbit
+* (Details have a bug in coordinate transforms)
+* Zoom out, rotate to show orbit
+* SMD details
+* NSSDC details
+
+Buttons
+=======
+
+* Globe picker
+* Projection picker
+  - Sphere: pick a satellite
+  - 2D: show sinusoidal wave
+  - 2.5D: Columbus view: zoom out and show outliers
+* Satellite picker
+  + SMD: SORCE
+  + Communications: GeoStationary:
+    - show huge picklist: pick one
+    - rotate to show void oer ocean
+    - rotate to show dense areas: N. Amer, China/Russia
+* Full Screen looks great on a big screen but can't do here
+
+Scary Space Junk
+================
+
+* Fengyun 1C Desbris:
+  - debris after destroyed by Chinese interceptor in 2007
+  - over 2000 golf-ball sized pieces, and 150K particles
+  - zoom to show it's all moving
+
+
